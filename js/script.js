@@ -1,2 +1,3 @@
-let name = "jasmine";
-console.log(name);
+let height;
+console.log(height);
+
