@@ -1,11 +1,7 @@
-"use strict";
-
-let height;
-console.log(height);
-
-let steps = 100;
-console.log(steps);
+function testFunction() {
+    console.log("hello");
+    console.log("world!");
 
 
-
-
+}
+testFunction();
