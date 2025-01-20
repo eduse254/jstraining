@@ -39,3 +39,17 @@ header {
 .nav ul li a:hover {
     color: aqua;
 }
+
+.jasmine {
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    background-color: brown;
+    position: absolute;
+    /* Position relative to the viewport */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* Center at the midpoint */
+    text-align: center;
+}
